@@ -1,0 +1,33 @@
+:root{
+  --black: #151515;
+  --green-1: #4EE1A0;
+  --gray-dark: #242424;
+  --gray-light: #D9D9D9;
+  --white: #FFFFFF;
+  --font-family: 'Space Grotesk', sans-serif;
+}
+// Heading XL
+.heading-xl {
+  font-size: 88px;
+  line-height: 88px;
+  letter-spacing: -2.5px;
+  font-weight: 700;
+}
+.heading-l {
+  font-size: 48px;
+  line-height: 56px;
+  letter-spacing: 1.5px;
+  font-weight: 700;
+}
+.heading-m {
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0rem;
+  font-weight: 700;
+}
+.body-text {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0rem;
+  font-weight: 500;
+}
